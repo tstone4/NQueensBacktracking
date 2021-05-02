@@ -1,0 +1,15 @@
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\NQueensBacktracking.exe
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\NQueensBacktracking.deps.json
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\NQueensBacktracking.runtimeconfig.json
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\NQueensBacktracking.runtimeconfig.dev.json
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\NQueensBacktracking.dll
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\ref\NQueensBacktracking.dll
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\bin\Debug\net5.0\NQueensBacktracking.pdb
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.AssemblyInfoInputs.cache
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.AssemblyInfo.cs
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.dll
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\ref\NQueensBacktracking.dll
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.pdb
+C:\Users\Thomas Stone\source\repos\NQueensBacktracking\NQueensBacktracking\obj\Debug\net5.0\NQueensBacktracking.genruntimeconfig.cache
